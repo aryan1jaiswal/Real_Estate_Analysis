@@ -64,7 +64,6 @@ It explores key pricing factors, machine learning models for price prediction, a
 #### Bangalore:
 - Strong demand, high appreciation potential.
 - Excellent for luxury segment investment or long-term capital gain.
-- High R² in Random Forest model indicates robust data relationships.
 
 #### Chennai:
 - Moderate growth with consistent returns.
