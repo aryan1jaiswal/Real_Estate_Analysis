@@ -69,7 +69,6 @@ It explores key pricing factors, machine learning models for price prediction, a
 #### Chennai:
 - Moderate growth with consistent returns.
 - Best suited for middle-income housing and stable rental yields.
-- Inclusion of price_per_sqft and log transformation significantly improved prediction performance (R² > 0.76).
 
 #### Hyderabad:
 - High model accuracy (R² > 0.95) shows price predictability.
