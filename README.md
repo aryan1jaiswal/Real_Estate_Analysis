@@ -47,7 +47,7 @@ It explores key pricing factors, machine learning models for price prediction, a
 - Hyderabad exhibits least variability, highlighting a more uniform market structure.
 
 ### 3. Outliers and High-Value Properties
-- Bangalore had the highest number of outlier transactions, with several properties exceeding ₹10 Crores. These are concentrated in premium zones like JP Nagar, Indiranagar, and Koramangala.
+- Bangalore had the highest number of outlier transactions, with several properties exceeding ₹10 Crores.
 - Chennai and Hyderabad had fewer such high-end outliers, suggesting relatively lower luxury density.
 
 ### 4. Price Trends by Area and Bedrooms
